@@ -1,0 +1,2 @@
+Data/ # isolate data cache
+.httr-oauth # credentials for `googledrive::`
