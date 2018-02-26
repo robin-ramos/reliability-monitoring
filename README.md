@@ -44,7 +44,7 @@ Parsed data files.
 
 | Dashboard | Platform | Location | Input data |
 |:--|:-:|:--|:--|
-|  |  |  |  |
+| Reliability Monitoring | Tableau | [`Tableau dashboard`](https://public.tableau.com/profile/robin.ramos#!/vizhome/Reliabilitymonitoring/Dashboard1?publish=yes) | data02_metrics with plant address.xlsx |
 
 #### Models
 
