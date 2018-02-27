@@ -1,5 +1,2 @@
 Data/ # isolate data cache
-
-# Auto-added ####
-.Rproj.user
-.httr-oauth
+.httr-oauth # credentials for `googledrive::`
